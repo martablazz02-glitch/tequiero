@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <img src="images.jpg" alt="Imagen de prueba" width="300" />
+  <h1>Holiii si ves esto que sepas que te amoo</h1>
+  <p>Aqui la pistaaaa jejejej</p>
+    <img src="images.jpg" alt="Imagen de prueba" width="300" />
 </body>
 </html>
